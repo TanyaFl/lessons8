@@ -164,6 +164,7 @@ margin-bottom: -10px;
 .process {
 padding: 72px 0;
 background-color: var(--color-gray-light);
+padding-bottom: 98px;
 
 }
 .process__container {
@@ -190,7 +191,7 @@ border: 0;
   padding: 42px 0;
   color: var(--color-white);
   background-color: var(--color-primary);
-  margin-top: 23px;
+  
 }
 
 .footer__name{
